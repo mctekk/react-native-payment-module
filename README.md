@@ -34,7 +34,7 @@ module.exports = {
 
 
 ```javascript
-import PaymentModule from 'react-native-mc-payment-module';
+import PaymentModule from 'react-native-payment-module';
 
 // TODO: What to do with the module?
 McPaymentModule;
