@@ -1,4 +1,4 @@
-# react-native-mc-payment-module
+# react-native-payment-modul
 
 ## Getting started
 
